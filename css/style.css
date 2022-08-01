@@ -1,0 +1,66 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  clear: both;
+  background: orange;
+}    
+    #one{
+      color: red;
+    }
+
+    .sunny{
+      color: yellow;
+    }
+
+
+    h2{
+      color: green;
+    }
+
+
+    .button{
+      color: white;
+      padding: 5px 8px;
+      display: inline-block;
+      text-decoration: none;
+      font-size: 12px;
+
+    }
+
+    .btn-blue{
+      color: blue;
+      background: white;
+      border: 1px solid blue;
+    }
+
+
+    .btn-orange{
+      color: white;
+      background: orange;
+    }
+
+    .btn-purple{
+      color: white;
+      background: purple;
+    }
+
+
+    .btn-purple{
+      color: purple;
+      background: white;
+      font-size: 20px;
+      border: 1px solid purple;
+    }
+
+  #one,.sunny{
+      color: black;
+    }
+
+    h1#one{
+      color: purple;
+    }
+
+    .button.btn-purple{
+      color: grey;
+      background: black;
+    }

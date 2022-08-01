@@ -1,0 +1,12 @@
+body{
+  background: grey;
+  color: black;
+}
+
+h1,h2,h3,h4,h5,h6{
+  color: black;
+}
+#one,.sunny,.button,.btn-purple,.btn-orange,.btn-blue{
+  color:  black;
+  background: grey;
+}
